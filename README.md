@@ -3,7 +3,8 @@ This project is applying several word embedding methods including:
   * Bag of Words
   * TF-IDF
   * Word2vec
-  * Topic Modeling *
+  * Topic Modeling 
+  
 on Reddit news headlines to predict change in stock market. 
 
 ## Data Source
