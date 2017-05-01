@@ -16,16 +16,16 @@ We mainly used two data files:
 2. DJIA_table.csv --- used DJIA score for auto regression
 
 ## Jupyter Notebook Files
-* CSE6740Project-BagOfWords.ipynb: 
+*CSE6740Project-BagOfWords.ipynb: 
 Preprocessed text data with **bag of words** and **TF-IDF**.
 Trained using linear SVM, logistic regression (LR), random forest (RF), adaboosting (AD) and Naive Bayes (NB).
 
-* ISYE6740Project-W2V.ipynb: 
+*ISYE6740Project-W2V.ipynb: 
 Preprocessed text data with **word2vec** and trained using LR, RF,  Bernoulli Naive Bayesian (BNB) and K-Nearest Neighbours (KNN).
 
-* isye6740_topic_modelling.ipynb: 
+*isye6740_topic_modelling.ipynb: 
 Preprocessed text data with **topic modeling** and trained using LR, SVM, RF, gradient boosting (GB) and KNN. 
 
-## Authors
+## Contributors
 **Hanying Chen, Ningqin Liu, Chongchao Zhao, Shiting Zhu** 
 
