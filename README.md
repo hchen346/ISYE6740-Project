@@ -1,5 +1,10 @@
 # ISYE6740-Project
-This project is applying several word embedding methods on Reddit news headlines to predict change in stock market.
+This project is applying several word embedding methods including:
+  * Bag of Words
+  * TF-IDF
+  * Word2vec
+  * Topic Modeling
+on Reddit news headlines to predict change in stock market. 
 
 ## Data Source
 Kaggle data page:
